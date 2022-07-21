@@ -6,3 +6,6 @@ My Interests:
 -  Machine Learning
 - Deep Learning (My New favourite)
 - Full Stack Web development
+
+I also like programming questions, they sharpen my mind all the time. I see them as a good excercise to the mind. I solve problems on [leetcode](https://leetcode.com/siddikAyyappa11/) daily. I have been maintaining my streak. I have a [YouTube channel](https://www.youtube.com/channel/UC60H_ZGy1DDqJUeO0f10HHA), do check it out for the projects I have worked on, sometimes, I make a demo of them. 
+
