@@ -22,4 +22,4 @@ I also like programming questions, they sharpen my mind all the time. I see them
 
 
 
-<center><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE_mpneyMX2tg/company-logo_200_200/0/1654927890513?e=1666828800&v=beta&t=eFuZRJcnbLfxD3msfe5a4IOkBjW4PNHf53MxI8Xgn9E" alt="drawing" width="200"/><img src="" alt="drawing" width="200"/></center>
+<center><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQE_mpneyMX2tg/company-logo_200_200/0/1654927890513?e=1666828800&v=beta&t=eFuZRJcnbLfxD3msfe5a4IOkBjW4PNHf53MxI8Xgn9E" alt="drawing" width="200"/></center><center><img src="https://github.com/siddik11803-IIITH/siddik11803-IIITH/blob/main/IIITH_logo.png?raw=true" alt="drawing" height="200"/></center>
