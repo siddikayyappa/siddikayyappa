@@ -1,14 +1,14 @@
 # Siddik Ayyappa Naraharisetti
-### Senior Student @ IIIT-H; Honours Student in Cognitive Science Lab, IIITH
+### SDE-1 @ Verizon India, Chennai
 
 
 
 Hey there, I am <a href="https://sites.google.com/view/siddikayyappa" target="_blank">Siddik Ayyappa</a>. 
 
 My Interests:
+- Competetive Programming and DSA
 - Deep Learning 
 - Full Stack Web development
-- Competetive Programming and DSA
 
 I have a <a href="https://www.youtube.com/channel/UC60H_ZGy1DDqJUeO0f10HHA" target="_blank">YouTube channel</a>, do check it out for the projects I have worked on. Sometimes, I make a demo of them. 
 
