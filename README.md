@@ -6,6 +6,11 @@
 </p>
 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/siddikayyappa/siddikayyappa/refs/heads/main/vzLogo.png" height="100"/>
+<img src="https://github.com/siddik11803-IIITH/siddik11803-IIITH/blob/main/IIITH_logo.png?raw=true" alt="drawing" height="100"/>
+</p>
+
 ---
 ### 🏢 Work Experience
 
@@ -18,10 +23,15 @@
 - Integrated CI/CD and TDD in production-grade codebase
 ---
 ---
-### My Interests:
-- Competetive Programming and DSA
-- Deep Learning 
-- Full Stack Web development
+
+### 🎓 Education
+
+**International Institute of Information Technology, Hyderabad (IIITH)**  
+_B.Tech in Computer Science & Engineering_  
+2020 – 2024  
+• Dean’s List 2022–23  
+• JEE Main AIR: 930 (Top 0.08%)
+
 ---
 ---
 
@@ -32,6 +42,12 @@
 - **DevOps:** Docker, Git, Jenkins, Linux, CI/CD  
 - **Systems:** Kernel Programming, UNIX, TCP/IP, Networking  
 
+---
+---
+### My Interests:
+- Competetive Programming and DSA
+- Deep Learning 
+- Full Stack Web development
 ---
 
 ---
@@ -64,6 +80,3 @@ I have a <a href="https://www.youtube.com/channel/UC60H_ZGy1DDqJUeO0f10HHA" targ
 - <a href="http://sites.google.com/view/siddikayyappa/" target="_blank">Personal Website</a>
 
 
-<p align="center">
-<img src="https://github.com/siddik11803-IIITH/siddik11803-IIITH/blob/main/IIITH_logo.png?raw=true" alt="drawing" height="200"/>
-</p>
